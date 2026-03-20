@@ -22,8 +22,8 @@ Execute the C Program for the desired output.
 
 ## Write a C program that illustrates two processes communicating using shared memory.
 ```
-Devolped by: Mohammad Suhael
-Reg.No.: 212224230164
+Devolped by: M krishna kumaran
+Reg.No.: 212224110033
 ```
 
 ## //shm.c
